@@ -1,4 +1,4 @@
-﻿using DatabaseTask.Models;
+﻿using DatabaseTask.Core.Domain;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
